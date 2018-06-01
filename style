@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.10 {
+	background: url(file:///C:/Users/Zayn/Desktop/OrphanClubPic.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%100%; 
+	background-position: center;
+}
